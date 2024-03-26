@@ -1,0 +1,18 @@
+.back {
+  background-image: url("https://preview.colorlib.com/theme/auction/images/hero_1.jpg.webp");
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+.background-radial-gradient{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+}
